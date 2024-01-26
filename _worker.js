@@ -1,5 +1,5 @@
 // https://family.cloudflare-dns.com/dns-query
-const redirect_doh = 'https://family.cloudflare-dns.com/dns-query';
+const redirect_doh = 'https://family.dot.dns.yandex.net/dns-query';
 const authPath = '/12345678';
 
 
